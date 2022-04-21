@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         自由设计
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  自由设计网页
 // @author       Zhangsq37
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant    none
 // @grant    GM_registerMenuCommand
-//@updateURL    https://gitee.com/zhangsongqiang/userscript/raw/main/%E8%87%AA%E7%94%B1%E8%AE%BE%E8%AE%A1.user.js
+// @updateURL    https://gitee.com/zhangsongqiang/userscript/raw/main/自由设计.user.js
 // @noframes
 // ==/UserScript==
 
@@ -30,18 +30,18 @@
     var topwindow = document.querySelector("div#topwindow");
     topwindow.style.visibility = "hidden";
 
-    document.onkeydown = handlekey;
-    function handlekey(event) {
-        // 当然还要组织浏览器的默认事件
-        event.preventDefault();
-        var key = event.keyCode || event.which
-        var ctrlKey = event.ctrlKey || event.metaKey;
-        if (ctrlKey && key == 85) {
-            alert('你按了组合键: ctrl + U' );
-            btn_clicked();
-        }
-        event.initEvent();
-    }
+    // document.onkeydown = handlekey;
+    // function handlekey(event) {
+    //     // 当然还要组织浏览器的默认事件
+    //     event.preventDefault();
+    //     var key = event.keyCode || event.which
+    //     var ctrlKey = event.ctrlKey || event.metaKey;
+    //     if (ctrlKey && key == 85) {
+    //         alert('你按了组合键: ctrl + U' );
+    //         btn_clicked();
+    //     }
+    //     event.initEvent();
+    // }
 
     btn.onclick = btn_clicked;
 
