@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         自由设计
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  自由设计网页
 // @author       Zhangsq37
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant    none
 // @grant    GM_registerMenuCommand
+//@updateURL    https://gitee.com/zhangsongqiang/userscript/raw/main/%E8%87%AA%E7%94%B1%E8%AE%BE%E8%AE%A1.user.js
 // @noframes
 // ==/UserScript==
 
