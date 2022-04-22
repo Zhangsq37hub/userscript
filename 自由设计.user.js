@@ -6,8 +6,6 @@
 // @author       Zhangsq37
 // @match        *://*/*
 // @icon        data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACtklEQVRYR+2XW0gUYRTH/2dmM4tKd9KQpMjaQYkuEAVBEC4EQVAEzj5ET0ViruRr9OT6EvRa7G6SSE+xGxSBEBTBWhAFRRB0cV036S6pY2pUmztzYtQFLzPrbH6iD83rd/j+v/mfC+cjLPFHS6yP5QmgRFMtYNrFYMWtQ8TmQ72pOuQcz6RE0x0wjffT4+Y4MCmOPBfZSxDQORRUj9mehhIeZUNlDKA6EF3XG32ncnEzAHLiDHQB0hM2zPtuHcgyXv9oVgfmxF9OrfR6ECPgOMC39KAaAIjtAcI9N0B0AkC9HlTb3Yo7xW1se746ky2JMeEoA3eGv30KIOTPTo+f4YA3kkoQUGsa8H8/p3YtBKDsUvdac40UA9ERYnQOGQigWc3MvnNRALxt6RIyzDiAw2C+W+wZDXxp2PvT7oeEA6xr/6h4/vyKA3QIwD1pzAgMnq8Zc3JTKEBFR6o88xtxAvwAP2BZ1oYbto3kS6UwgPJwX4WB8TiIDjKQMIqKtdEzm/T56kgIwPpospJZsnJ+AMyPilaR1n/apiVtaBYM4G1Lb54quP0AHsvs0Qaaqvpna5VG326ReEUChC7HQVRoG5Zc666Sx60/p30AnhKZ2lBj9Wc720uvpGolGQlryA0HVb/tICoEoDzc68tKHCfGHoCfTRXcB6ecCwUoi7yrNmFYOd/NhBemx9BG6mv68hWcMADlamo7TFjiOwC8lJm0gSZf73zVLg4gnAyBpBYAryTI2mBwa3I+cetcGMDERZJZC1m6qZ9V37gRFwrgVnBOG4rugkJBhKWgUOFc/H8AVw4ogley6enyRtIXCeYFgG7rQV+dw0442eP/spTmqw1Jho+Bk9a6BzZbF2Utd1WchJDeqLY6LqW5A2Vi2sk7C3mY5N16mL8C3GP3cFmeTzNXdgoKWnIH/gIJuawwEqXgUAAAAABJRU5ErkJggg==
-// @downloadURL https://gitee.com/zhangsongqiang/userscript/raw/main/自由设计.user.js
-// @updateURL https://gitee.com/zhangsongqiang/userscript/raw/main/自由设计.user.js
 // @grant    GM_registerMenuCommand
 // @noframes
 // @license MIT
